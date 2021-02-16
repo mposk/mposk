@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mposk
+- 👀 I’m interested in frontend software development
+- 🌱 I’m currently working at Restaurant Brands International
+- 📫 mitchposk@gmail.com
